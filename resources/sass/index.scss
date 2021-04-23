@@ -1,0 +1,29 @@
+.banner{
+    width:100%;
+    height:60vh;
+      .swiper-container {
+        width: 100%;
+        height: 100%;
+      }
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+  }
+  
+  .product{
+      width:100%;
+      margin:auto;
+      display:flex;
+      justify-content: space-between;
+      padding:60px 0;
+  }
+
+  .news{
+      margin:30px auto;
+      font-size:20px;
+  }
+  
